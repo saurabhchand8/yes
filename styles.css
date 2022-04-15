@@ -1,0 +1,76 @@
+/*----- body part-----*/
+
+body{
+  margin: 0;
+  text-align: center;
+
+  font-family: 'Merriweather', serif;
+  }
+  .top{
+    background-color:#93B5C6;
+  }
+/* mountain image*/
+  img{
+    width:800px ;
+    height:500px;
+    margin-top: 0;
+  }
+
+
+  /*--------Headings-------*/
+  h1{
+    font-family: 'Beau Rivage', cursive;
+    padding-top: 100px;
+     width: 10%;
+     margin: 0 auto 0 auto;
+    }
+
+
+/*----- begining of 2nd part*-----/
+
+
+/* ----welcome part----*/
+.bio{
+margin-top: 15px;
+ background-color: #FFE3E3;
+}
+
+/* ----Profile-pic----*/
+
+.my-pic{
+  width:200px;
+  height:200px ;
+}
+
+/*----hi----*/
+.abtme{
+  font-family: cursive;
+}
+
+/*----3rd part begining----*/
+
+.div3{
+
+  font-family: monospace;
+  background-color: #C9CCD5;
+
+}
+
+.hat{
+  margin-right: 140px;
+  margin-left: 90px;
+  display: inline;
+  width:5%;
+  height:5%;
+}
+.h2{
+  display: inline;
+  position: relative;
+  right: 120px;
+  bottom: 40px;
+}
+
+.list{
+  position: relative;;
+  bottom: 20px;
+}
